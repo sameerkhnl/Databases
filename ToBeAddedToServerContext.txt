@@ -1,0 +1,4 @@
+<Resource name="jdbc/webshop" auth="Container" type="javax.sql.DataSource"
+               maxActive="100" maxIdle="30" maxWait="10000"
+               username="root" password="4281" driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/webshop?useSSL=false"/>
