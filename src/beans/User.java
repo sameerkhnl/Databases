@@ -1,5 +1,8 @@
 package beans;
 
+//test comment for git
+//another comment added.
+
 public class User {
 	private String email ="";
 	private String password = "";
